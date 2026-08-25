@@ -49,4 +49,4 @@ The release provided here is scanned before it's published.
 
 ## ⚠️ Disclaimer
 > [!NOTE]
-> For personal, lawful use only. Trademarks are the property of their owners.       
+> For personal, lawful use only. Trademarks are the property of their owners.        
